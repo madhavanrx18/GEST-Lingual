@@ -1,1 +1,3 @@
-
+- trains a T5 based model and saves the model weights
+- python script will use the help of model for initial conversion and makes use of predefined rules for added accuracy
+- this will convert the .csv file of the gloss to video and then creates a whole video by combining all the videos of glooses from the sentence
